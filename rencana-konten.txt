@@ -3,4 +3,6 @@ Rencana Konten Catering Kuy
 *Jumbotron
 * Description Catering Kuy
 -Menu
+*Makanan
+*Snack
 -Contact Us
